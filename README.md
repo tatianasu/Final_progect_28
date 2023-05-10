@@ -10,3 +10,8 @@
 Для упращения понимания кода патерн - Page Obgect,
 
 Ход регистрации отображен в функциональном тестировании
+
+Тесты запускаются командой:
+python -m pytest -v --driver Chrome --driver-path C:\chromedriver C:\Users\User\PycharmProjects\final_project_SF_28/Tests.py
+
+Тесты запусскаются при установленной библиотеки Python Selenium
